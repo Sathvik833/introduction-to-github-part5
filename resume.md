@@ -1,3 +1,0 @@
-# GitHub Teacher
-
-Creating Conflict
